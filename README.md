@@ -1,11 +1,8 @@
-![GitHub](https://img.shields.io/github/license/username/repository-name?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/username/repository-name?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/username/repository-name?style=for-the-badge)
 
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/0000000/animated-icon.gif" alt="Project Logo" width="120">
   <br>
-  Repository Name
+  Code Edider
 </h1>
 
 <p align="center">
@@ -24,7 +21,7 @@
 
 ## 🎥 Demo
 
-![Demo](https://user-images.githubusercontent.com/0000000/demo.gif)
+![Demo]( https://akashvim3.github.io/Code---Editer/)
 
 ---
 
@@ -50,7 +47,7 @@ $ git clone https://github.com/username/repository-name.git
 
 ## 🌍 Live Demo
 
-Check out the live demo here: [Live Demo Link](https://example.com)
+Check out the live demo here: [Live Demo Link]( https://akashvim3.github.io/Code---Editer/)
 
 ---
 
